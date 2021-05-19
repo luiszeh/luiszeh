@@ -1,5 +1,12 @@
 ### Hi there, i'm Luis Fernando Fonseca, an full-stack web dev! 👋
 
+I'm currently studying at Trybe.
+### Learned Hard-Skills:
+- [ ] Unix & Bash;
+- [ ] Git & GitHub;
+- [ ] HTML & CSS;
+- [ ] JavaScript;
+
 ![Luis Fernando GitHub Stats](https://github-readme-stats.vercel.app/api?username=luiszeh&show_icons=true)
 
 <!--
