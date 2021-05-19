@@ -2,10 +2,10 @@
 
 I'm currently studying at Trybe.
 ### Learned Hard-Skills:
-- [ ] Unix & Bash;
-- [ ] Git & GitHub;
-- [ ] HTML & CSS;
-- [ ] JavaScript;
+:unlock: Unix & Bash;
+:unlock: Git & GitHub;
+:unlock: HTML & CSS;
+:unlock: JavaScript;
 
 ![Luis Fernando GitHub Stats](https://github-readme-stats.vercel.app/api?username=luiszeh&show_icons=true)
 
