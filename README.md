@@ -1,17 +1,22 @@
-### Hi there, i'm Luis Fernando Fonseca, an full-stack web dev! 👋
+### Olá, sou o Luis Fernando Fonseca, desenvolvedor web front-end! 👋
 
-I'm currently studying at Trybe.
-### Learned Hard-Skills:
+Linkedin: https://www.linkedin.com/feed/
+Repositório de projetos: https://github.com/luiszeh/Projetos-Trybe
+
+Atualmente estou estudando na Trybe, uma escola de desenvolvimento web full-stack.
+
+### Hard-skills aprendidas:
 :unlock: Unix & Bash;
 :unlock: Git & GitHub;
 :unlock: HTML & CSS;
 :unlock: JavaScript;
-:unlock: Testes (Jest, Cypress);
+:unlock: Testes (Jest && Cypress);
 :unlock: React;
 :unlock: React DOM;
 :unlock: React Testing Library;
 :unlock: Redux;
 :unlock: React Hooks;
+:unlock: Agile Methodology (Scrum && Kanban)
 
 ![Luis Fernando GitHub Stats](https://github-readme-stats.vercel.app/api?username=luiszeh&show_icons=true)
 
