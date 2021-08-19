@@ -1,6 +1,7 @@
 ### Olá, sou o Luis Fernando Fonseca, desenvolvedor web front-end! 👋
 
 Linkedin: https://www.linkedin.com/feed/
+
 Repositório de projetos: https://github.com/luiszeh/Projetos-Trybe
 
 Atualmente estou estudando na Trybe, uma escola de desenvolvimento web full-stack.
