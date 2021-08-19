@@ -1,6 +1,6 @@
 ### Olá, sou o Luis Fernando Fonseca, desenvolvedor web front-end! 👋
 
-Linkedin: https://www.linkedin.com/feed/
+Linkedin: https://www.linkedin.com/in/luisffg/
 
 Repositório de projetos: https://github.com/luiszeh/Projetos-Trybe
 
