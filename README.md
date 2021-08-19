@@ -6,9 +6,12 @@ I'm currently studying at Trybe.
 :unlock: Git & GitHub;
 :unlock: HTML & CSS;
 :unlock: JavaScript;
+:unlock: Testes (Jest, Cypress);
 :unlock: React;
 :unlock: React DOM;
-:unlock: RTL;
+:unlock: React Testing Library;
+:unlock: Redux;
+:unlock: React Hooks;
 
 ![Luis Fernando GitHub Stats](https://github-readme-stats.vercel.app/api?username=luiszeh&show_icons=true)
 
