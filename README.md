@@ -1,6 +1,5 @@
 ### Olá, sou o Luis Fernando Fonseca, desenvolvedor web front-end! 👋
 
-Linkedin: https://www.linkedin.com/in/luisffg/
 
 Repositório de projetos: https://github.com/luiszeh/Projetos-Trybe
 
@@ -21,8 +20,9 @@ Atualmente estou estudando na Trybe, uma escola de desenvolvimento web full-stac
   <img align="center" alt="ewe-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="ewe-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="ewe-React" height="30" width="40" src="https://play-lh.googleusercontent.com/AFY95yFw1P4ErzREpYWiSRyy6GyFA34pc70dP7MuHfkP12alfktC0Rp2ht-LbPAvO5sg">
-  
-  
+  <img align="center" alt="ewe-Jest" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jest-512.png">
+  <img align="center" alt="ewe-Ubuntu" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ19OKULissdagB8wf3tbPIthV6e0Wqhpm6ok69lGRNKDPSk9UohszsCjIlXHeLdKH9p3Q&usqp=CAU">
+  <img align="center" alt="ewe-Redux" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlwhdlrgiz7NiLtmqZtEUpanLIG3fI2UoYFAAyl1ADH7OMRu5BFQSXTcKcgeSwGhRaoIc&usqp=CAU">
 </div>  
   
 ##
@@ -34,17 +34,9 @@ Atualmente estou estudando na Trybe, uma escola de desenvolvimento web full-stac
   
 </div>
 
-### Hard-skills aprendidas:
-:unlock: Unix & Bash;
-:unlock: Git & GitHub;
-:unlock: HTML & CSS;
-:unlock: JavaScript;
-:unlock: Testes (Jest && Cypress);
-:unlock: React;
+### Hard Skills complementares:
 :unlock: React DOM;
 :unlock: React Testing Library;
-:unlock: Redux;
-:unlock: React Hooks;
 :unlock: Agile Methodology (Scrum && Kanban)
 
 ![Luis Fernando GitHub Stats](https://github-readme-stats.vercel.app/api?username=luiszeh&show_icons=true)
