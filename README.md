@@ -21,7 +21,7 @@ Atualmente estou estudando na Trybe, uma escola de desenvolvimento web full-stac
   <img align="center" alt="ewe-Jest" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jest-512.png">
   <img align="center" alt="ewe-React" height="30" width="40" src="https://play-lh.googleusercontent.com/AFY95yFw1P4ErzREpYWiSRyy6GyFA34pc70dP7MuHfkP12alfktC0Rp2ht-LbPAvO5sg">
   <img align="center" alt="ewe-Redux" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlwhdlrgiz7NiLtmqZtEUpanLIG3fI2UoYFAAyl1ADH7OMRu5BFQSXTcKcgeSwGhRaoIc&usqp=CAU">
-  <img align="center" alt="ewe-Node" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7AzVQtJDQgv0zGJgmideOPUUfNQh0akLoiSo8f3DnpyOVWGZskoW4c04xN-h8xY88qE&usqp=CAU">
+  <img align="center" alt="ewe-Node" height="30" width="40" src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg">
 </div>  
   
 ##
