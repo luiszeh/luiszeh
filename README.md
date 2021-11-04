@@ -4,7 +4,7 @@
 
 Atualmente estou estudando na Trybe, uma escola de desenvolvimento web full-stack.
 
-### Ferramentas e Tecnologias aprendidas:
+### Ferramentas e Tecnologias:
 
 <div style="display: inline_block"><br>
   <i class="devicon-html5-plain colored"></i>
