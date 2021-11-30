@@ -1,6 +1,6 @@
 ### Olá, sou o Luis Fernando Fonseca, desenvolvedor web front-end! 👋
 
-<a href="https://luisffg.netlify.app/">Portfólio</a>
+Acesse aqui meu <a href="https://luisffg.netlify.app/">Portfólio</a>.
 
 Desenvolvedor Front-end a procura de uma oportunidade no mercado de desenvolvimento.
 
