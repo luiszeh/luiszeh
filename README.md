@@ -3,6 +3,7 @@
 <a href="https://luisffg.netlify.app/">Portfólio</a>
 
 Desenvolvedor Front-end a procura de uma oportunidade no mercado de desenvolvimento.
+
 Estudante de Desenvolvimento Web Full-stack na <a href="https://www.betrybe.com/">Trybe</a>.
 
 ### Ferramentas e Tecnologias:
