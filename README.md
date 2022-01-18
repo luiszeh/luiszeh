@@ -2,7 +2,7 @@
 
 Acesse aqui meu <a href="https://luisffg.netlify.app/">Portfólio</a>.
 
-Desenvolvedor Web Full-stack em transição de carreira.
+QA at Concrete Solutions (Part of Accenture).
 
 Estudante de Desenvolvimento Web Full-stack na <a href="https://www.betrybe.com/">Trybe</a>.
 
