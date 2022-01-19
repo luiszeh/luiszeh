@@ -2,7 +2,7 @@
 
 Acesse aqui meu <a href="https://luisffg.netlify.app/">Portfólio</a>.
 
-Atualmente no começo da carreira atuando como QA Analyst na <a href="https://www.linkedin.com/company/accenturebr/">Concrete Solutions</a> (Part of <a href="https://www.linkedin.com/company/accenturebrasil/">Accenture</a>).
+Atualmente no começo da carreira em tecnologia atuando como QA Analyst na <a href="https://www.linkedin.com/company/accenturebr/">Concrete Solutions</a> (Part of <a href="https://www.linkedin.com/company/accenturebrasil/">Accenture</a>).
 
 Estudante de Desenvolvimento Web Full-stack na <a href="https://www.betrybe.com/">Trybe</a>.
 
